@@ -1,39 +1,9 @@
-## Welcome to NaOH Group
-
-You can use the [editor on GitHub](https://github.com/naohgroup/ranking/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 欢迎来到 NaOH Group
 
 ![Image](/img/NaOH.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+烧碱集团成立于2019年6月，由红警爱好者自由组成，成员分布于各个战队，致力于为广大玩家提供一个技术交流及交友的平台。帮助玩家解决问题的同时，我们也将数字技术应用在红色警戒中，为用户提供个性化服务。烧碱集团秉承着和谐友爱的精神，致力于红色警戒的推广以及提升用户体验。我们热爱红警，我们是一群有理想的有志青年。
 
-```markdown
-Syntax highlighted code block
+Founded in 2019, NaOH Group is an organization dedicating to providing a platform for Red Alert players all over the world to communicate with each other and promoting the spread of Red Alert culture. Meanwhile, we apply digital business transformation to the game, providing customer solutions for various users. We are all composed of Red Alert players and are welcome more players to join us! We love Red Alert and we are people with dreams!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/naohgroup/ranking/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
