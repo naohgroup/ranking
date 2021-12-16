@@ -12,9 +12,7 @@ Founded in 2019, NaOH Group is an organization dedicating to providing a platfor
 ![Image](/img/final_background.jpg)
 
 
-## 成员构成：
-
-
+## 创始人：
 
 ![Image](/img/me.jpg)
 ### 烧碱：原版Nsp战队队员，尤里RT战队队员，烧碱集团创始人之一。
@@ -23,3 +21,5 @@ Founded in 2019, NaOH Group is an organization dedicating to providing a platfor
 ![Image](/img/han.png)
 ### 憨批：尤里复仇知名高手，烧碱集团创始人之一。
 
+## 组织架构：
+![Image](/img/zuzhijiagou.jpg)
