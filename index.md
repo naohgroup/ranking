@@ -14,6 +14,8 @@ Founded in 2019, NaOH Group is an organization dedicating to providing a platfor
 
 ## 成员构成：
 
+
+
 ![Image](/img/me.jpg)
 ### 烧碱：原版Nsp战队队员，尤里RT战队队员，烧碱集团创始人之一。
 
