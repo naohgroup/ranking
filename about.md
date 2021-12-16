@@ -1,7 +1,5 @@
 ## 欢迎来到 NaOH Group
 
-[about page](about.md)
-
 ![Image](/img/NaOH.png)
 
 
