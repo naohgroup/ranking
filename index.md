@@ -1,8 +1,7 @@
 ## 欢迎来到 NaOH Group
-
-<font size="5">[ 高手榜1 ](gaoshou1.md)</font>
-<font size="5">[ 高手榜2 ](gaoshou2.md)</font>
-<font size="5">[ 高手榜3 ](gaoshou3.md)</font> 
+[高手榜1](gaoshou1.md)
+[高手榜2](gaoshou2.md)
+<font size="5">[高手榜3](gaoshou3.md)</font> 
 
 ![Image](/img/NaOH.png)
 
